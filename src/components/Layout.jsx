@@ -9,7 +9,7 @@ export const Layout = () => {
       sx={{
         margin: '0 auto',
           maxWidth: 1600,
-        backgroundColor: '#bfe0dc',
+        backgroundColor: '#f6f8fb',
         minHeight: '100vh',
         backgroundSize: 'cover',
         backgroundRepeat: 'no-repeat',
